@@ -9,7 +9,6 @@
     "launch": "Lancer",
     "quit": "Quitter",
     "title": "Application Usage",
-    "tooltip": "Most frequently used apps",
     "title": "Usages Applications",
     "tooltip": "Applications les plus utilisées"
 }
